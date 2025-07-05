@@ -1,3 +1,3 @@
-## Hello! This is Haotian
+## Hello and welcome — I'm Haotian Jia!
 
-[This is my profolio](https://haotianjia95.github.io/Haotian_Jia/HaotianJiaPortfolio_v3.pdf)
+[View my portfolio (PDF)](https://haotianjia95.github.io/Haotian_Jia/HaotianJiaPortfolio_v3.pdf)
